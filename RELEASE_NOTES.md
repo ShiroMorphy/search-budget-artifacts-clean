@@ -1,5 +1,20 @@
 # Release notes
 
+## v1.0.1 (2026-09-16)
+
+This traceable editorial-metadata release aligns the public reproducibility
+record with the revised submission title and positioning:
+
+- updated the package title and citation metadata to identify the Gaussian
+  continuous-causal-emergence setting explicitly;
+- recorded that the manuscript foregrounds the coupled-network result: a
+  fixed search budget can create an apparent threshold that is not robust to
+  adaptive step sizing;
+- made no changes to numerical code, data-retrieval workflow, archived
+  outputs, figures, or formalization relative to v1.0.0.
+
+The prior v1.0.0 release remains immutable and citable.
+
 ## v1.0.0 (revised 2026-09-16)
 
 This release replaces the earlier `v1.0.0` snapshot while preserving a fully

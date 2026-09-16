@@ -1,9 +1,9 @@
-# Search Budget Artifacts in Continuous Causal Emergence
+# Search-Budget Artifacts in Gaussian Continuous Causal Emergence
 
 Clean reproducibility package for the paper
 
-> Felipe Mora, *Search Budget Artifacts in Continuous Causal Emergence:
-> Fixed Step Riemannian Optimization Can Manufacture Apparent Scale Dependence*.
+> Felipe Mora, *Search-Budget Artifacts in Gaussian Continuous Causal Emergence:
+> Fixed-Step Riemannian Optimization Can Manufacture Apparent Scale Dependence*.
 
 This public package contains the software, reproduction runners, figures,
 archived numerical outputs, data retrieval tools, and Lean formalization. The
@@ -11,10 +11,11 @@ manuscript, cover letter, and journal highlights are intentionally excluded;
 they are submission materials rather than software or reproducibility
 dependencies.
 
-This is the first clean public release of this reproducibility package:
-[GitHub release v1.0.0](https://github.com/ShiroMorphy/search-budget-artifacts-clean/releases/tag/v1.0.0).
-The version history and the scope of the revised release are documented in
-[RELEASE_NOTES.md](RELEASE_NOTES.md).
+The current public release is
+[GitHub release v1.0.1](https://github.com/ShiroMorphy/search-budget-artifacts-clean/releases/tag/v1.0.1).
+Version 1.0.1 updates the repository metadata to match the revised manuscript
+positioning; its reproducibility inputs and numerical outputs are unchanged
+from v1.0.0. The full version history is documented in [RELEASE_NOTES.md](RELEASE_NOTES.md).
 
 ## Reproducing the results
 

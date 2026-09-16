@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "Search-Budget Artifacts in Continuous Causal Emergence: clean reproducibility package"
-version: "1.0.0"
+title: "Search-Budget Artifacts in Gaussian Continuous Causal Emergence: clean reproducibility package"
+version: "1.0.1"
 date-released: 2026-09-16
 authors:
   - family-names: Mora
@@ -14,7 +14,7 @@ repository-code: "https://github.com/ShiroMorphy/search-budget-artifacts-clean"
 abstract: >-
   Production estimator, CPU-only reproduction runners, data-retrieval scripts,
   figures, archived numerical outputs and Lean 4 formalization for the paper
-  "Search-Budget Artifacts in Continuous Causal Emergence: Fixed-Step
+  "Search-Budget Artifacts in Gaussian Continuous Causal Emergence: Fixed-Step
   Riemannian Optimization Can Manufacture Apparent Scale Dependence".
 keywords:
   - causal emergence

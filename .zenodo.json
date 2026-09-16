@@ -1,7 +1,7 @@
 {
-  "title": "Search-Budget Artifacts in Continuous Causal Emergence: replication package",
-  "version": "1.0.0",
-  "description": "<p>Clean reproducibility package for the paper <em>Search-Budget Artifacts in Continuous Causal Emergence: Fixed-Step Riemannian Optimization Can Manufacture Apparent Scale Dependence</em>. Contains the production estimator and CPU-only reproduction runners, the data-retrieval script for the industry portfolio returns, the four figures, archived numerical outputs, and a Lean 4 formalization of the exact closure decomposition plus a related Rayleigh-Ritz compression inequality.</p><p>The industry portfolio returns are not redistributed; they are retrieved from the Kenneth R. French Data Library and verified by SHA-256 against the file used in the paper. Manuscript and journal submission materials are intentionally excluded.</p>",
+  "title": "Search-Budget Artifacts in Gaussian Continuous Causal Emergence: replication package",
+  "version": "1.0.1",
+  "description": "<p>Clean reproducibility package for the paper <em>Search-Budget Artifacts in Gaussian Continuous Causal Emergence: Fixed-Step Riemannian Optimization Can Manufacture Apparent Scale Dependence</em>. Contains the production estimator and CPU-only reproduction runners, the data-retrieval script for the industry portfolio returns, the four figures, archived numerical outputs, and a Lean 4 formalization of the exact closure decomposition plus a related Rayleigh-Ritz compression inequality.</p><p>Version 1.0.1 updates repository metadata to match the revised manuscript positioning; its numerical code, data-retrieval workflow, figures, and archived outputs are unchanged from v1.0.0. The industry portfolio returns are not redistributed; they are retrieved from the Kenneth R. French Data Library and verified by SHA-256 against the file used in the paper. Manuscript and journal submission materials are intentionally excluded.</p>",
   "creators": [
     {
       "name": "Mora, Felipe",
