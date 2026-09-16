@@ -13,6 +13,8 @@ dependencies.
 
 This is the first clean public release of this reproducibility package:
 [GitHub release v1.0.0](https://github.com/ShiroMorphy/search-budget-artifacts-clean/releases/tag/v1.0.0).
+The version history and the scope of the revised release are documented in
+[RELEASE_NOTES.md](RELEASE_NOTES.md).
 
 ## Reproducing the results
 
