@@ -12,10 +12,10 @@ they are submission materials rather than software or reproducibility
 dependencies.
 
 The current public release is
-[GitHub release v1.0.1](https://github.com/ShiroMorphy/search-budget-artifacts-clean/releases/tag/v1.0.1).
-Version 1.0.1 updates the repository metadata to match the revised manuscript
-positioning; its reproducibility inputs and numerical outputs are unchanged
-from v1.0.0. The full version history is documented in [RELEASE_NOTES.md](RELEASE_NOTES.md).
+[GitHub release v1.0.0](https://github.com/ShiroMorphy/search-budget-artifacts-clean/releases/tag/v1.0.0).
+This clean v1.0.0 release aligns the repository with the final manuscript
+submission; its reproducibility inputs and numerical outputs are unchanged.
+The full version history is documented in [RELEASE_NOTES.md](RELEASE_NOTES.md).
 
 ## Reproducing the results
 

@@ -1,6 +1,21 @@
 # Release notes
 
-## v1.0.1 (2026-09-16)
+## v1.0.0 (clean final submission release, 2026-09-16)
+
+This clean v1.0.0 release aligns the public reproducibility record with the
+final manuscript and cover letter.
+
+- identifies the Gaussian continuous-causal-emergence setting explicitly;
+- records the coupled-network result: a fixed search budget can produce an
+  apparent threshold that is not robust to adaptive step sizing;
+- keeps the numerical code, data-retrieval workflow, figures, archived outputs,
+  and formalization unchanged;
+- excludes manuscript and journal-submission materials from the code repository.
+
+Earlier pre-submission release snapshots were removed from the public release
+surface; the underlying Git history remains available for traceability.
+
+## Historical pre-submission snapshot formerly labeled v1.0.1
 
 This traceable editorial-metadata release aligns the public reproducibility
 record with the revised submission title and positioning:
@@ -15,7 +30,7 @@ record with the revised submission title and positioning:
 
 The prior v1.0.0 release remains immutable and citable.
 
-## v1.0.0 (revised 2026-09-16)
+## Historical pre-submission snapshot formerly labeled v1.0.0
 
 This release replaces the earlier `v1.0.0` snapshot while preserving a fully
 traceable Git history: the earlier snapshot remains the direct parent of this

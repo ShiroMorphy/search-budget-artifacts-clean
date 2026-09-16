@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "Search-Budget Artifacts in Gaussian Continuous Causal Emergence: clean reproducibility package"
-version: "1.0.1"
+version: "1.0.0"
 date-released: 2026-09-16
 authors:
   - family-names: Mora
