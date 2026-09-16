@@ -1,0 +1,10 @@
+name = "causalemergence"
+defaultTargets = ["CausalEmergence"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "cf6bde11431e913de1d8804126d8006a7fb187c4"
+
+[[lean_lib]]
+name = "CausalEmergence"

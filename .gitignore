@@ -1,0 +1,25 @@
+# Retrieved from the French Data Library, not redistributed (see data/README.md)
+data/ff30_daily_returns.csv
+
+# Lean build artefacts
+formalization/.lake/
+formalization/lake-manifest.json
+
+# LaTeX build artefacts
+manuscript/*.aux
+manuscript/*.log
+manuscript/*.out
+manuscript/*.bbl
+manuscript/*.blg
+manuscript/*.synctex.gz
+manuscript/*.fdb_latexmk
+manuscript/*.fls
+manuscript/paper1.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Matplotlib and fontconfig caches created by the pipeline
+.cache/

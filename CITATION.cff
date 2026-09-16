@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Search-Budget Artifacts in Continuous Causal Emergence: clean reproducibility package"
+version: "1.0.0"
+date-released: 2026-09-16
+authors:
+  - family-names: Mora
+    given-names: Felipe
+    orcid: "https://orcid.org/0009-0001-1034-5948"
+    affiliation: "Universidad Técnica Federico Santa María"
+    email: felipe.morar@usm.cl
+license: MIT
+repository-code: "https://github.com/ShiroMorphy/search-budget-artifacts-clean"
+abstract: >-
+  Production estimator, CPU-only reproduction runners, data-retrieval scripts,
+  figures, archived numerical outputs and Lean 4 formalization for the paper
+  "Search-Budget Artifacts in Continuous Causal Emergence: Fixed-Step
+  Riemannian Optimization Can Manufacture Apparent Scale Dependence".
+keywords:
+  - causal emergence
+  - effective information
+  - Riemannian optimization
+  - Stiefel manifold
+  - reproducibility

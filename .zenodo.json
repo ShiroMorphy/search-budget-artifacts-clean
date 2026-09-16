@@ -1,0 +1,25 @@
+{
+  "title": "Search-Budget Artifacts in Continuous Causal Emergence: replication package",
+  "version": "1.0.0",
+  "description": "<p>Clean reproducibility package for the paper <em>Search-Budget Artifacts in Continuous Causal Emergence: Fixed-Step Riemannian Optimization Can Manufacture Apparent Scale Dependence</em>. Contains the production estimator and CPU-only reproduction runners, the data-retrieval script for the industry portfolio returns, the four figures, archived numerical outputs, and a Lean 4 formalization of the exact closure decomposition plus a related Rayleigh-Ritz compression inequality.</p><p>The industry portfolio returns are not redistributed; they are retrieved from the Kenneth R. French Data Library and verified by SHA-256 against the file used in the paper. Manuscript and journal submission materials are intentionally excluded.</p>",
+  "creators": [
+    {
+      "name": "Mora, Felipe",
+      "affiliation": "Universidad Técnica Federico Santa María, Valparaíso, Chile",
+      "orcid": "0009-0001-1034-5948"
+    }
+  ],
+  "license": "other",
+  "rights": "Code and Lean formalization: MIT License. Figures and archived numerical outputs: copyright Felipe Mora; not licensed under MIT. Industry portfolio returns are not distributed.",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "causal emergence",
+    "effective information",
+    "Riemannian optimization",
+    "Stiefel manifold",
+    "reproducibility",
+    "Lean 4"
+  ]
+}
